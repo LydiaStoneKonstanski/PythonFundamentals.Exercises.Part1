@@ -4,10 +4,7 @@ class Name:
          print(first_name)
 
 #first_name_500_times("Lydia")
-#last_name = "Stone"
+last_name = "Stone"
 full_name = "Lydia Stone"
 
 print(full_name)
-
-# first_name = "Lydia"
-# print(first_name 500)
