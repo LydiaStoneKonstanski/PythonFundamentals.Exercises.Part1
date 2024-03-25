@@ -1,3 +1,4 @@
+TYPE TESTS
 
 >>> a = True
 >>> type(a)
