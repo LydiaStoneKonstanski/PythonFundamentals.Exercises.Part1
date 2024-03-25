@@ -1,0 +1,25 @@
+
+>>> a = True
+>>> type(a)
+<class 'bool'>
+
+>>> b = 42
+>>> type(b)
+<class 'int'>
+
+>>> c = False
+>>> type(c)
+<class 'bool'>
+
+>>> d = 1.5
+>>> type(d)
+<class 'float'>
+
+>>> e = "Python is fun"
+>>> type(e)
+<class 'str'>
+
+>>> f = "3.5"
+>>> type(f)
+<class 'str'>
+>>>

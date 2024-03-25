@@ -1,0 +1,34 @@
+#MATH
+
+Addition
+>>> 2+2
+4
+
+Subtraction
+>>> 4-2
+2
+
+Subtraction mixing int and float
+>>> 4.5-2
+2.5
+
+Multiplication
+>>> 5*2
+10
+
+Multiplication mixing int and float
+>>> 10/5.0
+2.0
+
+Floor Division
+>>> 8//3
+2
+
+Modulus
+>>> 6%2
+0
+
+Exponentiation
+>>> 2**2
+4
+>>>
